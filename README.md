@@ -22,4 +22,6 @@
 | 炒麵 | 近 | 高 |
 
 
-程式碼相關函式使用可以參考 http://u.camdemy.com/course/122/intro   第五章
+程式碼相關函式使用可以參考
+由 政治大學應用數學系 蔡炎龍 老師
+用心製作的課程 http://u.camdemy.com/course/122/intro   第五章
